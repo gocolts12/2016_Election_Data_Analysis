@@ -22,6 +22,6 @@ Part 2:
   
   Contributors:
   
-  -Michael Lederer
-  -Erick Vaquero
-  -Jinhua Xu
+  1. Michael Lederer
+  2. Erick Vaquero
+  3. Jinhua Xu
