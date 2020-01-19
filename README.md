@@ -1,4 +1,4 @@
-# 2016_Election_Data_Analysis
+# 2016 Election Data Analysis
 An analysis on voting data from several counties across the U.S.
 
 This project aimed to take data on the populations of different counties across the U.S. and attempt to make predictions based 
