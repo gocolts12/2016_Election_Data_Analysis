@@ -20,7 +20,8 @@ Part 2:
      best with which variables
   3. Build multiple clustering models using different combinations of predictor variables and determine which models perform best
   
-  Contributors: 
+  Contributors:
+  
   -Michael Lederer
   -Erick Vaquero
   -Jinhua Xu
